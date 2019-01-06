@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
-#include<vector>
+#include <vector>
 #include <cstdlib>
 
 void generatePerfectNumbers()
